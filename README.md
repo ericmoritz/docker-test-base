@@ -1,4 +1,4 @@
-docker-test-agent
-=================
+ericmoritz/docker-test-base
+=============================
 
-A base image for a test agent for local (and eventually automated) testing
+A base image for any project that can be tested.
